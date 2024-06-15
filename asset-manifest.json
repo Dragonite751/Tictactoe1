@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tictactoe1/static/css/main.536b462e.css",
+    "main.js": "/Tictactoe1/static/js/main.d42db799.js",
+    "static/js/453.55d5f766.chunk.js": "/Tictactoe1/static/js/453.55d5f766.chunk.js",
+    "static/media/O-Letter.png": "/Tictactoe1/static/media/O-Letter.ed9568a6200c016f7e12.png",
+    "index.html": "/Tictactoe1/index.html",
+    "main.536b462e.css.map": "/Tictactoe1/static/css/main.536b462e.css.map",
+    "main.d42db799.js.map": "/Tictactoe1/static/js/main.d42db799.js.map",
+    "453.55d5f766.chunk.js.map": "/Tictactoe1/static/js/453.55d5f766.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536b462e.css",
+    "static/js/main.d42db799.js"
+  ]
+}
